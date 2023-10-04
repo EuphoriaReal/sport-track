@@ -1,0 +1,58 @@
+html{
+	background-color: #212529; 					/*couleur de fond, gris foncé*/
+}
+h1{
+	text-decoration: underline; 				/*sous-ligne les titres*/
+}
+a{
+	color:#7dc146 !important; 					/*liens coloré en vert clair*/
+}
+a:hover{
+	color: green !important; 					/*liens coloré en vert foncé quand souris au dessus*/
+}
+.box-upload{
+	display: flex;								/*pour gérer les éléments a l'intérieur du container*/
+	align-items: center;						/*Les éléments sont centrés dans le container*/
+	justify-content: center;					/*gère les espaces entre les éléments et les centre*/
+	height: 400px; 								/*augmente la hauteur de 400px*/
+	border: 2px dashed #bbb;	    			/*bordure en pointillés de 2px avec une couleur gris*/
+	padding-top: 50px;							/*augmente la hauteur de la boite de 50px vers le haut*/
+	color: white;				  			  /*met la couleur du texte en blanc*/
+	font-size: 20px;                			/*la taille du texte est de 20px*/
+	text-align: center;							/*aligne le texte au centre*/
+	
+	
+}
+.box-upload input{
+	display: none;								/*cache les éléments dans input*/
+}
+
+.box-upload label{
+	vertical-align: -webkit-baseline-middle;	/*met le text au milieu de la div verticalement (Chrome/Opera)*/
+	vertical-align: -moz-middle-with-baseline;	/*met le text au milieu de la div verticalement (firefox/tor)*/
+	cursor: pointer;						  	/*affiche un cursor sur l'élément dans label*/
+	text-decoration: underline solid white;   /*souligne le texte dans label*/
+}
+
+.box-upload label:hover{
+	cursor: pointer; 							/*affiche un cursor sur l'élément dans label*/
+}
+.box-upload .mb-3{
+	height: 50px; 								/* augmente la hauteur de 50px*/
+	background:#7dc146 ;		  			  /*le fond de couleur vert*/
+	border-radius: 50px;		    			/*arrondis les bord de la boite mb-3*/
+}
+.block{
+	display: flex;								/*pour gérer les éléments à l'intérieur*/
+	align-items: center;						/*Les éléments sont centrés dans la boite*/	
+	justify-content: center;					/*gère les espaces entre les éléments et les centre*/
+	text-align: center;							/*aligne le texte au centre*/
+}
+.block h2{
+	padding-bottom: 20px;
+
+}
+
+
+
+

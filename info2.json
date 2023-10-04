@@ -1,0 +1,68 @@
+{
+    "activity": {
+        "idActivity": "2",
+        "date": "01/09/2024",
+        "description": "IUT -> RU",
+        "duree": "00:00:35",
+        "distance": 0,
+        "minCardioFrequency": 0,
+        "maxCardioFrequency": 0,
+        "moyCardioFrequency": 0
+    },
+    "data": [
+        {
+            "idData": "7",
+            "time": "13:00:00",
+            "cardio_frequency": 99,
+            "latitude": 47.644795,
+            "longitude": -2.776605,
+            "altitude": 18,
+            "idActivity": "2"
+        },
+        {
+            "idData": "8",
+            "time": "13:00:10",
+            "cardio_frequency": 100,
+            "latitude": 47.645870,
+            "longitude": -2.778911,
+            "altitude": 18,
+            "idActivity": "2"
+        },
+        {
+            "idData": "9",
+            "time": "13:00:15",
+            "cardio_frequency": 102,
+            "latitude": 47.646197,
+            "longitude": -2.780220,
+            "altitude": 18,
+            "idActivity": "2"
+        },
+        {
+            "idData": "10",
+            "time": "13:00:20",
+            "cardio_frequency": 100,
+            "latitude": 47.646992,
+            "longitude": -2.781068,
+            "altitude": 17,
+            "idActivity": "2"
+        },
+        {
+            "idData": "11",
+            "time": "13:00:25",
+            "cardio_frequency": 98,
+            "latitude": 47.647867,
+            "longitude": -2.780744,
+            "altitude": 16,
+            "idActivity": "2"
+        },
+        {
+            "idData": "12",
+            "time": "13:00:25",
+            "cardio_frequency": 103,
+            "latitude": 47.648510,
+            "longitude": -2.780145,
+            "altitude": 16,
+            "idActivity": "2"
+        }
+    ]
+}
