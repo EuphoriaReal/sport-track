@@ -1,22 +1,4 @@
- ________  ________  ________  ________  _________        
-|\   ____\|\   __  \|\   __  \|\   __  \|\___   ___\     
-\ \  \___|\ \  \|\  \ \  \|\  \ \  \|\  \|___ \  \  
- \ \_____  \ \   ____\ \  \\\  \ \   _  _\   \ \  \
-  \|____|\  \ \  \___|\ \  \\\  \ \  \\  \|   \ \  \  
-    ____\_\  \ \__\    \ \_______\ \__\\ _\    \ \__\  
-   |\_________\|__|     \|_______|\|__|\|__|    \|__| 
-   \|_________|                                       
-                                                                  
-                                                                  
- _________  ________  ________  ________  ___  __                 
-|\___   ___\\   __  \|\   __  \|\   ____\|\  \|\  \               
-\|___ \  \_\ \  \|\  \ \  \|\  \ \  \___|\ \  \/  /|_             
-     \ \  \ \ \   _  _\ \   __  \ \  \    \ \   ___  \            
-      \ \  \ \ \  \\  \\ \  \ \  \ \  \____\ \  \\ \  \           
-       \ \__\ \ \__\\ _\\ \__\ \__\ \_______\ \__\\ \__\          
-        \|__|  \|__|\|__|\|__|\|__|\|_______|\|__| \|__|          
-
-   
+# SPORT TRACK
 
 Nous avons utilisé la template ci dessus pour nos formulaire.
 Le corps du site en lui-même provient de https://www.w3schools.com/bootstrap5/bootstrap_templates.php
@@ -26,7 +8,7 @@ Grâce à bootstrap, le site est responsive, c'est à dire qu'il fonctionne auss
 
 //Les differentes parties de notre site:
 
-Nous avons importé les ressourses css et js de bootstrap : voir dossier capture --> image1.png 
+Nous avons importé les ressourses css et js de bootstrap : voir dossier capture --> image1.png
 
 Voici le code qui permet de faire le menu du site -->image2.png
 Ce code provient de la template bootstrap de w3schools, tout comme l'en-tête et le pied de page.
